@@ -1,0 +1,5 @@
+/shell
+*.o
+/tests/test_utils
+*.dSYM/
+.421history
